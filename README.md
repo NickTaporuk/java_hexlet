@@ -1,2 +1,2 @@
 # java_hexlet
-java lesons
+java lessons
